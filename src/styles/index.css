@@ -10,3 +10,8 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+#Photo {
+    width: 300px;
+    height: 300px;
+}
